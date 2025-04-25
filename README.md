@@ -64,8 +64,8 @@ Backend will be on [http://localhost:5050](http://localhost:5050)
 - [x] Form-level error handling and validation
 - [x] Real-time per-field validation (error prevention)
 - [x] Screen recording submitted to Blackboard
-- [x] **(+10pts)** Unit test file included
-- [x] **(+20pts)** Docker + MongoDB backend for persistent storage
+- [x] Unit test file included
+- [x] Docker + MongoDB backend for persistent storage
 
 ---
 
